@@ -16,6 +16,12 @@ export default function Home() {
             Week 3 Objects
           </Link>
         </li>
+
+        <li>
+          <Link href="./week-4/" className={linkStyles}>
+            Week 4 Functions-Counter
+          </Link>
+        </li>
       </ul>
     </main>
   );
