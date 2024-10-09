@@ -22,6 +22,12 @@ export default function Home() {
             Week 4 Functions-Counter
           </Link>
         </li>
+
+        <li>
+          <Link href="./week-5/" className={linkStyles}>
+            Week 5 interactive forms
+          </Link>
+        </li>
       </ul>
     </main>
   );
