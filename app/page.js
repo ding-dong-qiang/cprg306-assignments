@@ -28,6 +28,12 @@ export default function Home() {
             Week 5 interactive forms
           </Link>
         </li>
+
+        <li>
+          <Link href="./week-6/" className={linkStyles}>
+            Week 6 handling lists
+          </Link>
+        </li>
       </ul>
     </main>
   );
