@@ -52,6 +52,12 @@ export default function Home() {
             Week 9 Firebase Auth
           </Link>
         </li>
+
+        <li>
+          <Link href="./week-10/" className={linkStyles}>
+            Week 10 Cloud Firestore
+          </Link>
+        </li>
       </ul>
     </main>
   );
