@@ -46,6 +46,12 @@ export default function Home() {
             Week 8 Fetching Data
           </Link>
         </li>
+
+        <li>
+          <Link href="./week-9/" className={linkStyles}>
+            Week 9 Firebase Auth
+          </Link>
+        </li>
       </ul>
     </main>
   );
